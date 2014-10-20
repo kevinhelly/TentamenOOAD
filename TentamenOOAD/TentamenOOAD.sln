@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "CrimeHeadlineSystem", "CrimeHeadlineSystem\CrimeHeadlineSystem.modelproj", "{89BC3826-0964-4A74-BB9C-98313CF3AC69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrimeHeadlineSystem.Web", "CrimeHeadlineSystem.Web\CrimeHeadlineSystem.Web.csproj", "{3E6D56BB-3C1D-4FAB-AAE7-ADBC7D1CCEA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrimeHeadlineSystem.Tests", "CrimeHeadlineSystem.Tests\CrimeHeadlineSystem.Tests.csproj", "{39D8F41B-9520-435A-8C41-2AFCDE096114}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{89BC3826-0964-4A74-BB9C-98313CF3AC69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89BC3826-0964-4A74-BB9C-98313CF3AC69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89BC3826-0964-4A74-BB9C-98313CF3AC69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E6D56BB-3C1D-4FAB-AAE7-ADBC7D1CCEA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6D56BB-3C1D-4FAB-AAE7-ADBC7D1CCEA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E6D56BB-3C1D-4FAB-AAE7-ADBC7D1CCEA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6D56BB-3C1D-4FAB-AAE7-ADBC7D1CCEA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39D8F41B-9520-435A-8C41-2AFCDE096114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D8F41B-9520-435A-8C41-2AFCDE096114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D8F41B-9520-435A-8C41-2AFCDE096114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D8F41B-9520-435A-8C41-2AFCDE096114}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
