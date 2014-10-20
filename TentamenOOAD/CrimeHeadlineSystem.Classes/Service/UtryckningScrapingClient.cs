@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CrimeHeadlineSystem.Classes
+namespace CrimeHeadlineSystem.Classes.Service
 {
-    public class Class1
+    public class UtryckningScrapingClient
     {
     }
 }

@@ -107,9 +107,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CrimeHeadlineSystem.Web\CrimeHeadlineSystem.Web.csproj">
-      <Project>{3E6D56BB-3C1D-4FAB-AAE7-ADBC7D1CCEA7}</Project>
-      <Name>CrimeHeadlineSystem.Web</Name>
+    <ProjectReference Include="..\CrimeHeadlineSystem.Classes\CrimeHeadlineSystem.Classes.csproj">
+      <Project>{ad8f068b-c5b8-48ac-9004-1d34081a71a0}</Project>
+      <Name>CrimeHeadlineSystem.Classes</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
